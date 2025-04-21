@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Tom Tiedemann, a 16-year-old software enthusiast currently studying Software Development in Utrecht. <br>I love diving into code and building projects. Whether it's creating games, web development, or working on something entirely new, I'm always eager to learn and improve my skills.
+Hi! I'm Tom Tiedemann, a 17-year-old software enthusiast currently studying Software Development in Utrecht. <br>I love diving into code and building projects. Whether it's creating games, web development, or working on something entirely new, I'm always eager to learn and improve my skills.
 
 
 ## 🌐 Socials:
